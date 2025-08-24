@@ -23,13 +23,13 @@ Uma aplicação de linha de comando em Python que simula operações bancárias 
 5. **Exibir extrato de transações e saldo 💸**
 
 
-## ▶ Pré-requisitos
+## ✔️ Pré-requisitos
 
 1. Python 3.8 ou superior
 
 2. Terminal / Prompt de comando no seu sistema operacional
 
-## ▶ Comandos Disponíveis
+## 📜 Comandos Disponíveis
 
 1. **Solicita valor e realiza depósito se for positivo**
 
@@ -52,7 +52,9 @@ Uma aplicação de linha de comando em Python que simula operações bancárias 
 
 .
 ├── main.py           # Script principal com todas as funções
+
 ├── README.md         # Documento de instruções e referência
+
 └── requirements.txt  # Dependências (se houver)
 
 
