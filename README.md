@@ -48,7 +48,7 @@ Uma aplicação de linha de comando em Python que simula operações bancárias 
 
 7. **Finaliza a aplicação**
 
-## Estrutura do Projeto
+## ▶ Estrutura do Projeto
 
 .
 ├── main.py           # Script principal com todas as funções
